@@ -15,8 +15,8 @@ Definição de estrutura:
     . Associação de Imagem;
     . Utilização dos indicadores;
     . Gráficos (visuais) e os campos que os compõem;
-    . Definião do layout do relatório;
+    . Definição do layout do relatório;
 
 Ferramenta:
 
-    . Pover BI.
+    . Power BI.
