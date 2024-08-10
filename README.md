@@ -1,6 +1,6 @@
 # Dashboard Gerencial para Tomada de Decisões Com Power BI
 
-Métricas focadas em experiência do usuario:
+Métricas focadas em experiência do usuário:
 
     · Posicionamento;
     · Contraste;
